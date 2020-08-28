@@ -1,1 +1,0 @@
-# scottbobbitt.github.io
