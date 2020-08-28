@@ -19,6 +19,7 @@ sections:
   label: Post
   create: all
   match: "**/*"
+  new_doc_ext: ".html"
 - type: directory
   path: content/homepage
   label: Homepage
