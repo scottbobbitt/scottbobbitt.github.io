@@ -17,5 +17,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- docs/post/mystory/this-should-be-nested.html
